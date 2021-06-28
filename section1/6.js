@@ -1,4 +1,6 @@
-// 홀수
+// 1. find odd number and get sum of them
+// 2. find minimum odd number
+
 function solution(arr){
     let answer=[];
     let sum=0, min=Number.MAX_SAFE_INTEGER;
